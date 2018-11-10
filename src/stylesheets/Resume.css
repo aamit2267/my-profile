@@ -1,0 +1,202 @@
+.Resume__one {
+  width: 100%;
+  margin: auto;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.Resume__21 {
+  width: 20.8%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+.Resume__22 {
+  width: 14.1%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+.Resume__23 {
+  width: 26.2%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__three__link {
+  width: 9.5%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__three {
+  width: 100%;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__four__link {
+  width: 8.2%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__four {
+  width: 100%;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__five {
+  width: 21.2%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+.Resume__six {
+  width: 100%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+.Resume__seven {
+  width: 26.3%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__eight__link {
+  width: 7%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__eight {
+  width: 100%;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__nine__link {
+  width: 8.9%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__nine {
+  width: 100%;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__ten {
+  width: 57.8%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+.Resume__eleven {
+  width: 100%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+.Resume__twelve {
+  width: 26.3%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__thirteen__link {
+  width: 7%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__thirteen {
+  width: 100%;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+.Resume__fourteen__link {
+  width: 8.9%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__fourteen {
+  width: 100%;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__fifteen {
+  width: 57.8%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+.Resume__sixteen {
+  width: 100%;
+  margin: auto;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+
+.Resume__22:hover,
+.Resume__23:hover,
+.Resume__three:hover,
+.Resume__four:hover,
+.Resume__eight:hover,
+.Resume__nine:hover,
+.Resume__thirteen:hover,
+.Resume__fourteen:hover {
+  cursor: pointer;
+  filter: brightness(95%);
+  transition: filter 0.3s;
+}
+
+.resume__box {
+  height: calc(200vw);
+  width: 100%;
+  background: white;
+}
+
+.resume__container {
+  background: #f9fafb;
+  padding: 0;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
