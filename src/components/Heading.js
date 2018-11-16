@@ -15,7 +15,12 @@ const Heading = props => {
         </h1>
         <p className="heading__para">{props.para}</p>
         {props.button && (
-          <a href={props.link} target="_blank" className="heading__link">
+          <a
+            href={props.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="heading__link"
+          >
             <button className="heading__button">{props.button}</button>
           </a>
         )}

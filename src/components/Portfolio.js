@@ -88,6 +88,7 @@ class PortHeader extends Component {
                 <div className="portfolio__btnContainer">
                   <a
                     href="https://github.com/devrod/react-pique"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >
@@ -95,6 +96,7 @@ class PortHeader extends Component {
                   </a>
                   <a
                     href="http://devrod.github.io/react-pique"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >
@@ -146,6 +148,7 @@ class PortHeader extends Component {
                 <div className="portfolio__btnContainer">
                   <a
                     href="https://github.com/devrod/snippets"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >
@@ -153,6 +156,7 @@ class PortHeader extends Component {
                   </a>
                   <a
                     href="http://www.roddo.xyz"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >
@@ -207,6 +211,7 @@ class PortHeader extends Component {
                 <div className="portfolio__btnContainer">
                   <a
                     href="https://github.com/devrod/react-spelling"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >
@@ -214,6 +219,7 @@ class PortHeader extends Component {
                   </a>
                   <a
                     href="http://roddo.xyz:4000"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >
@@ -265,6 +271,7 @@ class PortHeader extends Component {
               <div className="portfolio__btnContainer">
                 <a
                   href="https://github.com/devrod/uproar"
+                  rel="noopener noreferrer"
                   target="_blank"
                   className="portfolio__link"
                 >
@@ -272,6 +279,7 @@ class PortHeader extends Component {
                 </a>
                 <a
                   href="http://devrod.github.io/uproar"
+                  rel="noopener noreferrer"
                   target="_blank"
                   className="portfolio__link"
                 >
@@ -319,6 +327,7 @@ class PortHeader extends Component {
                 <div className="portfolio__btnContainer">
                   <a
                     href="https://github.com/devrod/todo"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >
@@ -326,6 +335,7 @@ class PortHeader extends Component {
                   </a>
                   <a
                     href="http://devrod.github.io/todo"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >
@@ -375,6 +385,7 @@ class PortHeader extends Component {
                 <div className="portfolio__btnContainer">
                   <a
                     href="https://github.com/devrod/react-typing"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >
@@ -382,6 +393,7 @@ class PortHeader extends Component {
                   </a>
                   <a
                     href="http://devrod.github.io/react-typing"
+                    rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
                   >

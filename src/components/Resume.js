@@ -82,6 +82,7 @@ class Resume extends Component {
               <a
                 href="https://github.com/devrod/"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="Resume__four__link"
               >
                 <img
@@ -107,6 +108,7 @@ class Resume extends Component {
               />
               <a
                 href="http://www.roddo.xyz"
+                rel="noopener noreferrer"
                 target="_blank"
                 className="Resume__eight__link"
               >
@@ -119,6 +121,7 @@ class Resume extends Component {
               <a
                 href="https://github.com/devrod/snippets"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="Resume__nine__link"
               >
                 <img
@@ -144,6 +147,7 @@ class Resume extends Component {
               />
               <a
                 href="https://devrod.github.io/react-pique/"
+                rel="noopener noreferrer"
                 target="_blank"
                 className="Resume__thirteen__link"
               >
@@ -155,6 +159,7 @@ class Resume extends Component {
               </a>
               <a
                 href="https://github.com/devrod/react-pique"
+                rel="noopener noreferrer"
                 target="_blank"
                 className="Resume__fourteen__link"
               >
