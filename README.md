@@ -1,10 +1,4 @@
-![alt text](https://raw.githubusercontent.com/devrod/parallax-portfolio/master/src/images/logo.svg)
-![alt text](https://github.com/devrod/parallax-portfolio/blob/master/src/images/logo.svg)
-![alt text](https://devrod.github.io/parallax-portfolio/master/src/images/logo.svg)
-![alt text](https://devrod.github.io/parallax-portfolio/src/images/logo.svg)
-<img src="./parallax-portfolio/master/src/images/logo.svg">
-<img src="./master/src/images/logo.svg">
-<img src="./src/images/logo.svg">
+<img src="./src/images/logo.svg" style="height: 100px">
 
 # _Parallax Portfolio_
 
