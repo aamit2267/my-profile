@@ -1,4 +1,6 @@
-<img src="./src/images/logo.svg" style="height: 100px">
+<h1 align="center">
+ <img src="./src/images/logo.svg" width="100" alt="R logo">
+</h1>
 
 # _Parallax Portfolio_
 
