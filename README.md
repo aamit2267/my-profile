@@ -1,10 +1,10 @@
 <div align="center">
  <img src="./src/images/logo.svg" width="100" alt="R logo">
  <br>
- <span fontSize="100px" style="font-size: 100px" >Parallax Portfolio</span>
+ <h3 size="+2">Parallax Portfolio</h3>
  <h4>Portfolio website using parallax scrolling on the landing page.</h4>
 </div>
-<hr>
+---------
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
