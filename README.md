@@ -6,10 +6,15 @@
  <br>
  Portfolio website using parallax scrolling on the landing page.
  <br>
+
+
+</div>
+
+<span align="center">
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
-</div>
+</span>
 
 <!-- ![Build Status](https://img.shields.io/appveyor/ci/:user/:repo.svg) -->
 
