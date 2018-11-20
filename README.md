@@ -1,5 +1,6 @@
 <h1 align="center">
  <img src="./src/images/logo.svg" width="100" alt="R logo">
+ <br>
  Parallax Portfolio
 </h1>
 
@@ -37,3 +38,12 @@ www.rdny.me
 Copyright (c) 2016 Rodney Cumming. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
 
 ## Acknowledgments
+
+<!-- Markdown link & img dfn's -->
+
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/yourname/yourproject/wiki
