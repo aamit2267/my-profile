@@ -1,18 +1,18 @@
 <h1 align="center">
  <img src="./src/images/logo.svg" width="100" alt="R logo">
  <br>
+ <br>
  Parallax Portfolio
-</h1>
-
-Portfolio website using parallax scrolling on the landing page.
-
-[![NPM Version][npm-image]][npm-url]
+ <br>
+ Portfolio website using parallax scrolling on the landing page.
+ <br>
+ [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-![Build Status](https://img.shields.io/appveyor/ci/:user/:repo.svg)
+</h1>
 
-[![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)](https://bintray.com/asciidoctor/maven/asciidoctorj)
+<!-- ![Build Status](https://img.shields.io/appveyor/ci/:user/:repo.svg) -->
 
 ### Overview
 
