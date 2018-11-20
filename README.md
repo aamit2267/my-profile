@@ -2,11 +2,9 @@
  <img src="./src/images/logo.svg" width="100" alt="R logo">
  <br>
  <h1 size="+2">Parallax Portfolio</h1>
- 
+ <h4>Portfolio website using parallax scrolling on the landing page.</h4>
 </div>
 <hr>
-
-<h4>Portfolio website using parallax scrolling on the landing page.</h4>
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -17,6 +15,8 @@
 
 _What does your user need to know to get everything ready after installation?_
 _Think about databases, config files, and settings._
+
+<img src="./screenshot.gif" width="500" alt="landing page scroll animation">
 
 ## Usage
 
