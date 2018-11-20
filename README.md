@@ -3,7 +3,10 @@
  <br>
  <h1 size="+2">Parallax Portfolio</h1>
  <h4>Portfolio website using parallax scrolling on the landing page.</h4>
+ <br>
+ <img src="./screenshot.gif" width="500" alt="landing page scroll animation">
 </div>
+
 <hr>
 
 [![NPM Version][npm-image]][npm-url]
@@ -15,8 +18,6 @@
 
 _What does your user need to know to get everything ready after installation?_
 _Think about databases, config files, and settings._
-
-<img src="./screenshot.gif" width="500" alt="landing page scroll animation">
 
 ## Usage
 
