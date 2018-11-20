@@ -1,7 +1,7 @@
 <div align="center">
  <img src="./src/images/logo.svg" width="100" alt="R logo">
  <br>
- <h1>Parallax Portfolio</h1>
+ <h1 fontSize="100px" >Parallax Portfolio</h1>
  <h4>Portfolio website using parallax scrolling on the landing page.</h4>
 </div>
 <hr>
