@@ -1,16 +1,15 @@
 <div align="center">
  <img src="./src/images/logo.svg" width="100" alt="R logo">
  <br>
- <h1 fontSize="100px" >Parallax Portfolio</h1>
+ <span fontSize="100px" style="font-size: 100px" >Parallax Portfolio</span>
  <h4>Portfolio website using parallax scrolling on the landing page.</h4>
 </div>
 <hr>
-<br>
-<br>
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <!-- ![Build Status](https://img.shields.io/appveyor/ci/:user/:repo.svg) -->
 
