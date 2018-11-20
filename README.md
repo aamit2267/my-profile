@@ -4,6 +4,25 @@
  <h1 size="+2">Parallax Portfolio</h1>
  <h4>Portfolio website using parallax scrolling on the landing page.</h4>
  <br>
+
+ <p align="center">
+	<a href="https://demo.thelounge.chat/"><img
+		alt="#thelounge IRC channel on freenode"
+		src="https://img.shields.io/badge/freenode-%23thelounge-415364.svg?colorA=ff9e18&style=flat-square"></a>
+	<br>
+	<a href="https://yarn.pm/thelounge"><img
+		alt="npm version"
+		src="https://img.shields.io/npm/v/thelounge.svg?style=flat-square&maxAge=3600"></a>
+	<a href="https://travis-ci.com/thelounge/thelounge"><img
+		alt="Travis CI Build Status"
+		src="https://img.shields.io/travis/com/thelounge/thelounge/master.svg?style=flat-square&maxAge=60"></a>
+	<a href="https://david-dm.org/thelounge/thelounge"><img
+		alt="Dependencies Status"
+		src="https://img.shields.io/david/thelounge/thelounge.svg?style=flat-square&maxAge=3600"></a>
+	<a href="https://npm-stat.com/charts.html?package=thelounge&from=2016-02-12"><img
+		alt="Total downloads on npm"
+		src="https://img.shields.io/npm/dt/thelounge.svg?colorB=007dc7&style=flat-square&maxAge=3600"></a>
+</p>
  <img src="./screenshot.gif" width="500" alt="landing page scroll animation">
 </div>
 
