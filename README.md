@@ -1,4 +1,4 @@
-<span align="center">
+<div align="center">
  <img src="./src/images/logo.svg" width="100" alt="R logo">
  <br>
  <br>
@@ -7,7 +7,7 @@
  Portfolio website using parallax scrolling on the landing page.
  <br>
 
-</span>
+</div>
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
