@@ -2,12 +2,12 @@
  <img src="./src/images/logo.svg" width="100" alt="R logo">
  <br>
  <br>
- Parallax Portfolio
+ <h1>Parallax Portfolio</h1>
  <br>
  Portfolio website using parallax scrolling on the landing page.
- <br>
-
 </div>
+<br>
+<br>
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
