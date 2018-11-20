@@ -25,7 +25,7 @@
 </p>
  <img src="./screenshot.png" width="700" alt="landing page scroll animation">
 </div>
-
+<br>
 <!-- [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
