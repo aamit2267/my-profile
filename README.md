@@ -23,7 +23,7 @@
 		alt="Total downloads on npm"
 		src="https://img.shields.io/npm/dt/thelounge.svg?colorB=007dc7&style=flat-square&maxAge=3600"></a>
 </p>
- <img src="./screenshot.gif" width="500" alt="landing page scroll animation">
+ <img src="./screenshot.png" width="700" alt="landing page scroll animation">
 </div>
 
 <hr>
