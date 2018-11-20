@@ -1,4 +1,4 @@
-<h1 align="center">
+<span align="center">
  <img src="./src/images/logo.svg" width="100" alt="R logo">
  <br>
  <br>
@@ -6,11 +6,12 @@
  <br>
  Portfolio website using parallax scrolling on the landing page.
  <br>
- [![NPM Version][npm-image]][npm-url]
+
+</span>
+
+[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
-
-</h1>
 
 <!-- ![Build Status](https://img.shields.io/appveyor/ci/:user/:repo.svg) -->
 
