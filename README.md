@@ -1,19 +1,19 @@
 <div align="center">
  <img src="./src/images/logo.svg" width="100" alt="R logo">
  <br>
- <h3 size="+2">Parallax Portfolio</h3>
- <h4>Portfolio website using parallax scrolling on the landing page.</h4>
+ <h1 size="+2">Parallax Portfolio</h1>
+ 
 </div>
----------
+<hr>
+
+<h4>Portfolio website using parallax scrolling on the landing page.</h4>
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-<!-- ![Build Status](https://img.shields.io/appveyor/ci/:user/:repo.svg) -->
-
-### Overview
+## Overview
 
 _What does your user need to know to get everything ready after installation?_
 _Think about databases, config files, and settings._
