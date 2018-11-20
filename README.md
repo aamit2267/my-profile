@@ -45,11 +45,14 @@ www.rdny.me
 
 ## Author
 
-- Rodney Cumming - www.rdny.me - RodneyCumming@gmail.com
+- Rodney Cumming - RodneyCumming@gmail.com
 
-## Copyright and attribution
+## License
 
-Copyright (c) 2016 Rodney Cumming. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2018 © <a href="http://fvcproductions.com" target="_blank">Rodney Cumming</a>.
 
 ## Acknowledgments
 
