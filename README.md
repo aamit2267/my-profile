@@ -6,13 +6,13 @@
  <br>
 
  <p align="center">
-    <a href="https://yarn.pm/thelounge"><img
+    <a href="https://www.npmjs.com/package/npm/v/6.4.1"><img
     	alt="npm version"
     	src="https://img.shields.io/badge/npm-6.4.1-brightgreen.svg"></a>
-    <a href="https://travis-ci.com/thelounge/thelounge"><img
+    <img
     	alt="Travis CI Build Status"
-    	src="https://img.shields.io/badge/Size-4.24%20MB-green.svg"></a>
-    <a href="https://david-dm.org/thelounge/thelounge"><img
+    	src="https://img.shields.io/badge/Size-4.24%20MB-green.svg">
+    <a href="http://opensource.org/licenses/mit-license.php"><img
     	alt="licence"
     	src="https://img.shields.io/packagist/l/doctrine/orm.svg">
 	</a>
