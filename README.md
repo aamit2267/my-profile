@@ -26,27 +26,27 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) -->
 
-## Objective :eyes:
+## Objective
 
-Showcase web development and design abilities to potential employers and clients. And, provide ways for them to contact me easily.
+Showcase web development and design abilities to potential employers and clients :eyes:. And, provide ways for them to contact me easily :wave:.
 
-## Features :clipboard:
+## Features
 
-- :scroll: Parallax scrolling
-- :iphone: Responsive design
-- :man_artist: Custom designed images
-- :popcorn: Pop-up components
+- Parallax scrolling :scroll:
+- Responsive design :iphone:
+- Custom designed images :man_artist:
+- Pop-up components :popcorn:
 
-## Technologies :floppy_disk:
+## Technologies
 
-- :computer: HTML5
-- :art: CSS6
-- :open_mouth: React.js
-- :crayon: Adobe Illustrator
+- HTML5 :computer:
+- CSS6 :art:
+- React.js :open_mouth:
+- Adobe Illustrator :crayon:
 
-## Live Website :zap:
+## Live Website
 
-www.rdny.me
+www.rdny.me :zap:
 
 ## Author
 
