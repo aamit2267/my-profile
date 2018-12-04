@@ -26,31 +26,31 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) -->
 
-## Objective
+## Objective :eyes:
 
 Showcase web development and design abilities to potential employers and clients. And, provide ways for them to contact me easily.
 
-## Features
+## Features :clipboard:
 
-- Parallax scrolling
-- Responsive design
-- Custom designed images
-- Pop-up components
+- :scroll: Parallax scrolling
+- :iphone: Responsive design
+- :man_artist: Custom designed images
+- :popcorn: Pop-up components
 
-## Technologies
+## Technologies :floppy_disk:
 
-- HTML5
-- CSS6
-- React.js
-- Adobe Illustrator
+- :computer: HTML5
+- :art: CSS6
+- :open_mouth: React.js
+- :crayon: Adobe Illustrator
 
-## Live Website
+## Live Website :zap:
 
 www.rdny.me
 
 ## Author
 
-- Rodney Cumming - RodneyCumming@gmail.com
+- Rodney Cumming - RodneyCumming@gmail.com :email:
 
 ## License
 
