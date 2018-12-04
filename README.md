@@ -40,7 +40,7 @@ Showcase web development and design abilities to potential employers and clients
 ## Technologies
 
 - HTML5
-- CSS6
+- CSS3
 - React.js
 - Adobe Illustrator
 
