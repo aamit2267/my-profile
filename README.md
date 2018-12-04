@@ -28,16 +28,23 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) -->
 
-## Overview
+## Objective
 
-_What does your user need to know to get everything ready after installation?_
-_Think about databases, config files, and settings._
+Showcase web development and design abilities to potential employers and clients.
 
-## Usage
+## Features
 
-_Give your users a sense of the workflow for using your project/tool._
-_For a website this might include code for running locally._
-_For an API this might include method and parameter specs._
+- Parallax scrolling
+- Responsive design
+- Custom designed images
+- Pop-up components
+
+## Technologies
+
+- HTML5
+- CSS6
+- React.js
+- Adobe Illustrator
 
 ## Live Website
 
@@ -55,6 +62,9 @@ www.rdny.me
 - Copyright 2018 © <a href="http://fvcproductions.com" target="_blank">Rodney Cumming</a>.
 
 ## Acknowledgments
+
+- Inspired by www.firewatchgame.com[http://www.firewatchgame.com/]
+- Parallax implementation inspired by Sam Beckham [https://codepen.io/samdbeckham/pen/OPXPNp]
 
 <!-- Markdown link & img dfn's -->
 
