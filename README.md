@@ -15,6 +15,10 @@
     	alt="licence"
     	src="https://img.shields.io/packagist/l/doctrine/orm.svg">
 	</a>
+    <a href="#" target="_blank"><img
+    	alt="Javascript percentage"
+    	src="https://img.shields.io/badge/Javascript-57.5%25-red.svg">
+	</a>
 </p>
 <br>
  <img src="./screenshot.png" width="700" alt="landing page scroll animation">
