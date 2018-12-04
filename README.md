@@ -6,13 +6,13 @@
  <br>
 
  <p align="center">
-    <a href="https://www.npmjs.com/package/npm/v/6.4.1"><img
+    <a href="https://www.npmjs.com/package/npm/v/6.4.1" target="_blank"><img
     	alt="npm version"
     	src="https://img.shields.io/badge/npm-6.4.1-brightgreen.svg"></a>
     <img
-    	alt="Travis CI Build Status"
+    	alt="size of repository"
     	src="https://img.shields.io/badge/Size-4.24%20MB-green.svg">
-    <a href="http://opensource.org/licenses/mit-license.php"><img
+    <a href="https://badges.mit-license.org/" target="_blank"><img
     	alt="licence"
     	src="https://img.shields.io/packagist/l/doctrine/orm.svg">
 	</a>
