@@ -14,11 +14,8 @@
     	src="https://img.shields.io/badge/Size-4.24%20MB-green.svg"></a>
     <a href="https://david-dm.org/thelounge/thelounge"><img
     	alt="licence"
-    	src="https://img.shields.io/cocoapods/l/AFNetworking.svg">
+    	src="https://img.shields.io/packagist/l/doctrine/orm.svg">
 	</a>
-    <a href="https://npm-stat.com/charts.html?package=thelounge&from=2016-02-12"><img
-    	alt="Total downloads on npm"
-    	src="https://img.shields.io/npm/dt/thelounge.svg?colorB=007dc7&style=flat-square&maxAge=3600"></a>
 
 </p>
  <img src="./screenshot.png" width="700" alt="landing page scroll animation">
