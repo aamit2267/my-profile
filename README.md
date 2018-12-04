@@ -32,17 +32,17 @@ Showcase web development and design abilities to potential employers and clients
 
 ## Features
 
-- Parallax scrolling :scroll:
-- Responsive design :iphone:
-- Custom designed images :man_artist:
-- Pop-up components :popcorn:
+- Parallax scrolling
+- Responsive design
+- Custom designed images
+- Pop-up components
 
 ## Technologies
 
-- HTML5 :computer:
-- CSS6 :art:
-- React.js :open_mouth:
-- Adobe Illustrator :crayon:
+- HTML5
+- CSS6
+- React.js
+- Adobe Illustrator
 
 ## Live Website
 
