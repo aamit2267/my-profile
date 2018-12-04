@@ -8,13 +8,14 @@
  <p align="center">
     <a href="https://yarn.pm/thelounge"><img
     	alt="npm version"
-    	src="https://img.shields.io/npm/v/thelounge.svg?style=flat-square&maxAge=3600"></a>
+    	src="https://img.shields.io/badge/npm-6.4.1-brightgreen.svg"></a>
     <a href="https://travis-ci.com/thelounge/thelounge"><img
     	alt="Travis CI Build Status"
-    	src="https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg"></a>
+    	src="https://img.shields.io/badge/Size-4.24%20MB-green.svg"></a>
     <a href="https://david-dm.org/thelounge/thelounge"><img
-    	alt="Dependencies Status"
-    	src="https://img.shields.io/david/thelounge/thelounge.svg?style=flat-square&maxAge=3600"></a>
+    	alt="licence"
+    	src="https://img.shields.io/cocoapods/l/AFNetworking.svg">
+	</a>
     <a href="https://npm-stat.com/charts.html?package=thelounge&from=2016-02-12"><img
     	alt="Total downloads on npm"
     	src="https://img.shields.io/npm/dt/thelounge.svg?colorB=007dc7&style=flat-square&maxAge=3600"></a>
