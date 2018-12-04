@@ -3,15 +3,14 @@
  <br>
  <h1 size="+2">Parallax Portfolio</h1>
  <h4><i>Portfolio website using parallax scrolling on the landing page.</i></h4>
- <br>
 
  <p align="center">
     <a href="https://www.npmjs.com/package/npm/v/6.4.1" target="_blank"><img
     	alt="npm version"
     	src="https://img.shields.io/badge/npm-6.4.1-brightgreen.svg"></a>
-    <img
+    <a href="#"><img
     	alt="size of repository"
-    	src="https://img.shields.io/badge/Size-4.24%20MB-green.svg">
+    	src="https://img.shields.io/badge/Size-4.24%20MB-green.svg"></a>
     <a href="https://badges.mit-license.org/" target="_blank"><img
     	alt="licence"
     	src="https://img.shields.io/packagist/l/doctrine/orm.svg">
@@ -52,7 +51,7 @@ www.rdny.me :zap:
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[MIT license](http://badges.mit-license.org)**
 - Copyright 2018 © <a href="http://fvcproductions.com" target="_blank">Rodney Cumming</a>.
 
 ## Acknowledgments
