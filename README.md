@@ -11,7 +11,7 @@
     	src="https://img.shields.io/npm/v/thelounge.svg?style=flat-square&maxAge=3600"></a>
     <a href="https://travis-ci.com/thelounge/thelounge"><img
     	alt="Travis CI Build Status"
-    	src="https://img.shields.io/travis/com/thelounge/thelounge/master.svg?style=flat-square&maxAge=60"></a>
+    	src="https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg"></a>
     <a href="https://david-dm.org/thelounge/thelounge"><img
     	alt="Dependencies Status"
     	src="https://img.shields.io/david/thelounge/thelounge.svg?style=flat-square&maxAge=3600"></a>
@@ -30,7 +30,7 @@
 
 ## Objective
 
-Showcase web development and design abilities to potential employers and clients.
+Showcase web development and design abilities to potential employers and clients. And, provide ways for them to contact me easily.
 
 ## Features
 
@@ -63,8 +63,8 @@ www.rdny.me
 
 ## Acknowledgments
 
-- Inspired by www.firewatchgame.com[http://www.firewatchgame.com/]
-- Parallax implementation inspired by Sam Beckham [https://codepen.io/samdbeckham/pen/OPXPNp]
+- Inspired by [www.firewatchgame.com](http://www.firewatchgame.com/)
+- Parallax implementation inspired by [Sam Beckham](https://codepen.io/samdbeckham/pen/OPXPNp)
 
 <!-- Markdown link & img dfn's -->
 
