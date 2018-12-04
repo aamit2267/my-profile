@@ -49,7 +49,7 @@ www.rdny.me :zap:
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![License](https://img.shields.io/packagist/l/doctrine/orm.svg)](http://badges.mit-license.org)
 
 - **[MIT license](http://badges.mit-license.org)**
 - Copyright 2018 © <a href="http://fvcproductions.com" target="_blank">Rodney Cumming</a>.
