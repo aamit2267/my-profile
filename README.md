@@ -21,7 +21,7 @@
 	</a>
 </p>
 <br>
- <img src="./screenshot.png" width="700" alt="landing page scroll animation">
+ <img src="https://github.com/devrod/readme-images/blob/master/parallax-screenshot.png?raw=true" width="700" alt="landing page scroll animation">
 </div>
 <br>
 
