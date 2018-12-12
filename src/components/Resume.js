@@ -57,7 +57,11 @@ class Resume extends Component {
                 rel="noopener noreferrer"
                 className="resume__link 
                 resume__link4"
-              />
+              >
+                <p className="resume__link__hiddenText">
+                  Link to Rodney's Github page
+                </p>
+              </a>
               <div className="resume__link resume__link5" />
 
               <a
@@ -65,26 +69,43 @@ class Resume extends Component {
                 rel="noopener noreferrer"
                 target="_blank"
                 className="resume__link resume__link5"
-              />
+              >
+                <p className="resume__link__hiddenText">
+                  Link to Snippets website
+                </p>
+              </a>
 
               <a
                 href="https://github.com/devrod/snippets"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="resume__link resume__link6"
-              />
+              >
+                <p className="resume__link__hiddenText">
+                  Link to Snippets Github
+                </p>
+              </a>
+
               <a
                 href="https://devrod.github.io/react-pique/"
                 rel="noopener noreferrer"
                 target="_blank"
                 className="resume__link resume__link7"
-              />
+              >
+                <p className="resume__link__hiddenText">
+                  Link to Pique website
+                </p>
+              </a>
               <a
                 href="https://github.com/devrod/react-pique"
                 rel="noopener noreferrer"
                 target="_blank"
                 className="resume__link resume__link8"
-              />
+              >
+                <p className="resume__link__hiddenText">
+                  Link to Pique website Github
+                </p>
+              </a>
             </div>
           </div>
           <Footer scrollToPosition={this.props.scrollToPosition} />

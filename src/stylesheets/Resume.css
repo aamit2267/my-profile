@@ -269,3 +269,7 @@
   top: 54.526%;
   left: 33.3%;
 }
+
+.resume__link__hiddenText {
+  font-size: 0;
+}
