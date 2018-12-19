@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import "../stylesheets/ResumeSeg.css";
 
 // IMPORT IMAGES
-import ResumeImg from "../images/resume/resume.png";
+import ResumeImg from "../images/resume/resume-img.png";
 
 class ResumeSeg extends Component {
   constructor(props) {

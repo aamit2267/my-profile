@@ -7,8 +7,8 @@ import Footer from "./Footer";
 import Heading from "./Heading";
 
 // IMPORT IMAGES
-import ResumePDF from "../images/resume/resume.pdf";
-import ResumePNG from "../images/resume/resume.png";
+import ResumePDF from "../images/resume/resume-img.pdf";
+import ResumePNG from "../images/resume/resume-img.png";
 
 // IMPORT STYLESHEETS
 
