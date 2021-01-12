@@ -20,10 +20,7 @@
     	src="https://img.shields.io/badge/Javascript-57.5%25-yellow.svg">
 	</a>
 </p>
-<br>
- <img src="https://github.com/devrod/readme-images/blob/master/parallax-screenshot.png?raw=true" width="700" alt="landing page scroll animation">
-</div>
-<br>
+
 
 ## Objective
 
