@@ -42,20 +42,15 @@ Showcase web development and design abilities to potential employers and clients
 
 ## Live Website
 
-www.rdny.me :zap:
+https://aamit2267.github.io/my-profile/#/ :zap:
 
 ## Author
 
-- Rodney Cumming - RodneyCumming@gmail.com :email:
+- Amit Agarwal - aamit2267@gmail.com :email:
 
 ## License
 
 [![License](https://img.shields.io/packagist/l/doctrine/orm.svg)](http://badges.mit-license.org)
 
 - **[MIT license](http://badges.mit-license.org)**
-- Copyright 2018 © <a href="http://fvcproductions.com" target="_blank">Rodney Cumming</a>.
-
-## Acknowledgments
-
-- Inspired by [www.firewatchgame.com](http://www.firewatchgame.com/)
-- Parallax implementation inspired by [Sam Beckham](https://codepen.io/samdbeckham/pen/OPXPNp)
+- Copyright 2021 © <a href="http://fvcproductions.com" target="_blank">Amit Agarwal</a>.
