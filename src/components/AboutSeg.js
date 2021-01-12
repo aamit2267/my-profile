@@ -16,14 +16,13 @@ class AboutSeg extends Component {
         <div className="container">
           <h1 className="header about__header">ABOUT ME</h1>
           <p className="para about__para">
-            Hey there, I'm Rodney Cumming. I'm passionate about creating
-            beautiful, user-friendly websites using clean, modular code. I love
+            Hey there, I'm Amit Agarwal. I'm passionate about creating
+            beautiful, user-friendly websites and apps using clean, modular code. I love
             learning about the latest technologies and applying them to produce
             high quality work.
           </p>
           <p className="para about__para">
-            I also enjoy reading, drinking coffee and playing a bit of sport in
-            my free time.
+            I also enjoy reading, drinking coffee and playing video games in my free time.
           </p>
         </div>
       </div>

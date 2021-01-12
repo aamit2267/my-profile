@@ -24,8 +24,8 @@ class Landing extends Component {
           />
         </div>
         <div className="landing__titleBox">
-          <h1 className="landing__titleBox__header">RODNEY CUMMING</h1>
-          <h2 className="landing__titleBox__subHeader">Front End Developer</h2>
+          <h1 className="landing__titleBox__header">Amit Agarwal</h1>
+          <h2 className="landing__titleBox__subHeader">Flutter Developer</h2>
         </div>
         <div className="landing__leftCloud container">
           <img

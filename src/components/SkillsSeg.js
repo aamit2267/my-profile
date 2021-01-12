@@ -22,24 +22,22 @@ class SkillsSeg extends Component {
   render() {
     // Skills Array
     const skillsArray = [
-      { name: "HTML5", icon: "html5", category: "dev" },
-      { name: "CSS3", icon: "css3", category: "dev" },
+      { name: "HTML5", icon: "html", category: "dev" },
+      { name: "CSS3", icon: "css", category: "dev" },
       { name: "Javascript", icon: "js", category: "dev" },
 
-      { name: "React", icon: "react", category: "dev" },
-      { name: "Node", icon: "nodejs", category: "dev" },
+      { name: "React", icon: "react-js", category: "dev" },
+      { name: "Node", icon: "node-js", category: "dev" },
       { name: "MongoDB", icon: "mongodb", category: "dev" },
       { name: "Express", icon: "express", category: "dev" },
-      { name: "Jquery", icon: "jquery", category: "dev" },
-      { name: "SASS", icon: "sass", category: "dev" },
-      { name: "Redux", icon: "redux", category: "dev" },
+      { name: "Android", icon: "android", category: "dev" },
+      { name: "Flutter", icon: "flutter", category: "dev" },
+      
       { name: "Illustrator", icon: "illustrator", category: "design" },
       { name: "Photoshop", icon: "photoshop", category: "design" },
-      { name: "InDesign", icon: "indesign", category: "design" },
-      { name: "Figma", icon: "figma", category: "design" },
+      
       { name: "VS Code", icon: "vscode", category: "tools" },
-      { name: "git", icon: "git", category: "tools" },
-      { name: "Webpack", icon: "webpack", category: "tools" }
+      { name: "git", icon: "git", category: "tools" }
     ];
     return (
       <div className="container__outer lightBG">

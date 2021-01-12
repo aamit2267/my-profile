@@ -15,14 +15,13 @@ class Popup extends Component {
           <div className="popup__content">
             <h3 className="popup__header">{this.props.popup}</h3>
             <div className="header__underline" />
-            {/* Phone popup content */}
-            {this.props.popup === "Phone" && (
+            {/* Instagram popup content */}
+            {this.props.popup === "Instagram" && (
               <div>
                 <h5 className="popup__subheader">
-                  Give me a call today, I would love to talk to you about web
-                  development.
+                  Message me on Instagram.
                 </h5>
-                <h1 className="popup__main">027 6359 269</h1>
+                <a href="https://instagram.com/amitagarwal2312"><h1 className="popup__main">@amitagarwal2312</h1></a>
               </div>
             )}
             {/* Email popup content */}
@@ -31,7 +30,7 @@ class Popup extends Component {
                 <h5 className="popup__subheader">
                   Email me anytime, I will get back to you as soon as possible.
                 </h5>
-                <h1 className="popup__main__email">RodneyCumming@gmail.com</h1>
+                <h1 className="popup__main__email">aamit2267@gmail.com</h1>
               </div>
             )}
           </div>

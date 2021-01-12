@@ -30,7 +30,7 @@ class Contact extends Component {
           <div className="container">
             <h1 className="contact__header">SEND MESSAGE</h1>
             <form
-              action="https://formspree.io/rodneycumming@gmail.com"
+              action="https://formspree.io/f/xeqpvvqk"
               method="POST"
               className="contact__form"
             >

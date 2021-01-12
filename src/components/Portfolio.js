@@ -44,7 +44,7 @@ class PortHeader extends Component {
           technologies. I have many other projects at my Github page that
           you can also check out."
           button="GITHUB"
-          link="https://github.com/devrod"
+          link="https://github.com/aamit2267"
         />
 
         {/* ------ section One -----------*/}
@@ -87,7 +87,7 @@ class PortHeader extends Component {
                 </p>
                 <div className="portfolio__btnContainer">
                   <a
-                    href="https://github.com/devrod/react-pique"
+                    href="https://github.com/aamit2267"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
@@ -95,7 +95,7 @@ class PortHeader extends Component {
                     <button className="portfolio__btn">GITHUB</button>
                   </a>
                   <a
-                    href="http://devrod.github.io/react-pique"
+                    href="http://aamit2267.github.io"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
@@ -147,7 +147,7 @@ class PortHeader extends Component {
                 </p>
                 <div className="portfolio__btnContainer">
                   <a
-                    href="https://github.com/devrod/snippets"
+                    href="https://github.com/aamit2267"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
@@ -155,7 +155,7 @@ class PortHeader extends Component {
                     <button className="portfolio__btn">GITHUB</button>
                   </a>
                   <a
-                    href="http://www.roddo.xyz"
+                    href="http://aamit2267.github.io"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
@@ -210,7 +210,7 @@ class PortHeader extends Component {
                 </p>
                 <div className="portfolio__btnContainer">
                   <a
-                    href="https://github.com/devrod/react-spelling"
+                    href="https://github.com/aamit2267"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
@@ -218,7 +218,7 @@ class PortHeader extends Component {
                     <button className="portfolio__btn">GITHUB</button>
                   </a>
                   <a
-                    href="http://roddo.xyz:4000"
+                    href="http://aamit2267.github.io"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
@@ -270,7 +270,7 @@ class PortHeader extends Component {
               </p>
               <div className="portfolio__btnContainer">
                 <a
-                  href="https://github.com/devrod/uproar"
+                  href="https://github.com/aamit2267"
                   rel="noopener noreferrer"
                   target="_blank"
                   className="portfolio__link"
@@ -278,7 +278,7 @@ class PortHeader extends Component {
                   <button className="portfolio__btn">GITHUB</button>
                 </a>
                 <a
-                  href="http://devrod.github.io/uproar"
+                  href="http://aamit2267.github.io"
                   rel="noopener noreferrer"
                   target="_blank"
                   className="portfolio__link"
@@ -326,7 +326,7 @@ class PortHeader extends Component {
                 </p>
                 <div className="portfolio__btnContainer">
                   <a
-                    href="https://github.com/devrod/todo"
+                    href="https://github.com/aamit2267"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
@@ -334,7 +334,7 @@ class PortHeader extends Component {
                     <button className="portfolio__btn">GITHUB</button>
                   </a>
                   <a
-                    href="http://devrod.github.io/todo"
+                    href="http://aamit2267.github.io"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
@@ -384,7 +384,7 @@ class PortHeader extends Component {
                 <p className="portfolio__para">Responsive Design, UI Design.</p>
                 <div className="portfolio__btnContainer">
                   <a
-                    href="https://github.com/devrod/react-typing"
+                    href="https://github.com/aamit2267"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"
@@ -392,7 +392,7 @@ class PortHeader extends Component {
                     <button className="portfolio__btn">GITHUB</button>
                   </a>
                   <a
-                    href="http://devrod.github.io/react-typing"
+                    href="http://aamit2267.github.io"
                     rel="noopener noreferrer"
                     target="_blank"
                     className="portfolio__link"

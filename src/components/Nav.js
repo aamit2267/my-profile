@@ -63,15 +63,6 @@ class Nav extends Component {
                   >
                     PORTFOLIO
                   </NavLink>
-                  {/* Resume Link */}
-                  <NavLink
-                    to="/resume"
-                    className="nav__rightContainer__link"
-                    activeClassName="nav__active"
-                    onClick={() => this.props.closeMobileMenu()}
-                  >
-                    R&Eacute;SUM&Eacute;
-                  </NavLink>
                   {/* Contact Link */}
                   <NavLink
                     to="/contact"

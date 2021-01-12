@@ -27,7 +27,7 @@ class Footer extends Component {
             />
           </Link>
           <p className="footer__copyright">Design & Development by</p>
-          <p className="footer__copyright">Rodney Cumming ©2018</p>
+          <p className="footer__copyright">Amit Agarwal ©2021</p>
         </div>
       </div>
     );

@@ -4,8 +4,8 @@ import React, { Component } from "react";
 // IMPORT STYLESHEETS
 
 // IMPORT IMAGES
-import PhoneSVG from "../images/phone.png";
-import EmailSVG from "../images/email.png";
+import InstagramSVG from "../images/instagram.svg";
+import EmailSVG from "../images/gmail.svg";
 
 class ContactSeg extends Component {
   constructor(props) {
@@ -23,7 +23,7 @@ class ContactSeg extends Component {
           >
             <h1 className="header contactSeg__header">GET IN TOUCH</h1>
             <p className="contactSeg__para">
-              I love getting calls and emails regarding web development so
+              I love getting messages and emails regarding web development so
               please get in touch, and I will respond super quick.
             </p>
           </div>
@@ -31,14 +31,14 @@ class ContactSeg extends Component {
           <div className="contactSeg__iconContainer">
             <div
               className="contactSeg__iconBox"
-              onClick={() => this.props.showPopup("Phone")}
+              onClick={() => this.props.showPopup("Instagram")}
             >
               <img
-                src={PhoneSVG}
+                src={InstagramSVG}
                 alt="phone icon"
                 className="contactSeg__icon"
               />
-              <p className="contactSeg__iconLabel">Phone</p>
+              <p className="contactSeg__iconLabel">Instagram</p>
             </div>
             <div
               className="contactSeg__iconBox"
